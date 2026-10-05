@@ -26,6 +26,13 @@ Regional sales leadership struggled to identify revenue bottlenecks across multi
 
 ---
 
+## 📊 Key Insights & Visualizations
+
+<img width="1456" height="730" alt="photo" src="https://github.com/user-attachments/assets/c4263332-ac80-4798-ac4a-b90311238d13" />
+
+
+---
+
 ## 💡 Key Insights Discovered
 
 * Discovered an underperforming product segment in the **South zone**[cite: 1].
